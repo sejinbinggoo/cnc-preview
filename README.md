@@ -1,1 +1,1 @@
-# cnc-prewiew
+# cnc-preview
